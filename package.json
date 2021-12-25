@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/creatively-awesome/E-Commerce-App-MERN.git"
+  },
+  "author": "Abhishek Kumar",
+  "license": "ISC"
+}
